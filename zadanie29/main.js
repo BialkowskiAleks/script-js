@@ -1,4 +1,4 @@
-let firstNumber = 8;
+let firstNumber ;
 let secondNumber = 10;
 
 function sumNumbers(num1, num2) {
